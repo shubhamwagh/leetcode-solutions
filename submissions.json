@@ -21,6 +21,17 @@
     ]
   },
   {
+    "id": 202,
+    "title": "Happy Number",
+    "title_slug": "happy-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
