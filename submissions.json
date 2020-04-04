@@ -79,6 +79,16 @@
     ]
   },
   {
+    "id": 283,
+    "title": "Move Zeroes",
+    "title_slug": "move-zeroes",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
