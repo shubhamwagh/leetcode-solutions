@@ -22,6 +22,17 @@
     ]
   },
   {
+    "id": 18,
+    "title": "4Sum",
+    "title_slug": "4sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
