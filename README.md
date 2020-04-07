@@ -11,6 +11,7 @@
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | Medium | `Array` `Sorting` `Two Pointers` |
+| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | Medium | `Array` `Backtracking` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
