@@ -196,5 +196,15 @@
       "Math",
       "Memoization"
     ]
+  },
+  {
+    "id": 1426,
+    "title": "Counting Elements",
+    "title_slug": "counting-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]

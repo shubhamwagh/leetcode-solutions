@@ -24,3 +24,4 @@
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Hash Table` `Math` `Two Pointers` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
+| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements) | Easy | `Array` `Hash Table` |
