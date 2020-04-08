@@ -207,6 +207,16 @@
     ]
   },
   {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "title_slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
