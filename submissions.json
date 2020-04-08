@@ -187,6 +187,17 @@
     ]
   },
   {
+    "id": 160,
+    "title": "Intersection of Two Linked Lists",
+    "title_slug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 188,
     "title": "Best Time to Buy and Sell Stock IV",
     "title_slug": "best-time-to-buy-and-sell-stock-iv",
