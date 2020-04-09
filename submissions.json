@@ -240,6 +240,18 @@
     ]
   },
   {
+    "id": 844,
+    "title": "Backspace String Compare",
+    "title_slug": "backspace-string-compare",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 876,
     "title": "Middle of the Linked List",
     "title_slug": "middle-of-the-linked-list",
