@@ -283,6 +283,16 @@
     ]
   },
   {
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "title_slug": "last-stone-weight",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
