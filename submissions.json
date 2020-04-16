@@ -271,6 +271,18 @@
     ]
   },
   {
+    "id": 678,
+    "title": "Valid Parenthesis String",
+    "title_slug": "valid-parenthesis-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 844,
     "title": "Backspace String Compare",
     "title_slug": "backspace-string-compare",
