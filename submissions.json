@@ -98,6 +98,17 @@
     ]
   },
   {
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "title_slug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 70,
     "title": "Climbing Stairs",
     "title_slug": "climbing-stairs",
