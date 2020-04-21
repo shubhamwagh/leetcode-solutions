@@ -366,5 +366,17 @@
       "Math",
       "String"
     ]
+  },
+  {
+    "id": 1428,
+    "title": "Leftmost Column with at Least a One",
+    "title_slug": "leftmost-column-with-at-least-a-one",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Interactive",
+      "Matrix"
+    ]
   }
 ]
