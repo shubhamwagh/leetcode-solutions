@@ -292,6 +292,17 @@
     ]
   },
   {
+    "id": 560,
+    "title": "Subarray Sum Equals K",
+    "title_slug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 678,
     "title": "Valid Parenthesis String",
     "title_slug": "valid-parenthesis-string",
