@@ -250,6 +250,15 @@
     ]
   },
   {
+    "id": 201,
+    "title": "Bitwise AND of Numbers Range",
+    "title_slug": "bitwise-and-of-numbers-range",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 202,
     "title": "Happy Number",
     "title_slug": "happy-number",
