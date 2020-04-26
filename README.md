@@ -42,6 +42,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements) | Easy | `Array` `Hash Table` |
 | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts) | Easy | `Array` `Math` `String` |
 | 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) | Medium | `Array` `Binary Search` `Interactive` `Matrix` |
