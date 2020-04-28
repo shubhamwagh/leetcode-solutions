@@ -47,3 +47,4 @@
 | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements) | Easy | `Array` `Hash Table` |
 | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts) | Easy | `Array` `Math` `String` |
 | 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) | Medium | `Array` `Binary Search` `Interactive` `Matrix` |
+| 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number) | Medium | `Array` `Data Stream` `Design` `Hash Table` `Queue` |

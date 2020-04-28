@@ -442,5 +442,18 @@
       "Interactive",
       "Matrix"
     ]
+  },
+  {
+    "id": 1429,
+    "title": "First Unique Number",
+    "title_slug": "first-unique-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Data Stream",
+      "Design",
+      "Hash Table",
+      "Queue"
+    ]
   }
 ]
