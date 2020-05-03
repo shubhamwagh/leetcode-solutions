@@ -336,6 +336,17 @@
     ]
   },
   {
+    "id": 383,
+    "title": "Ransom Note",
+    "title_slug": "ransom-note",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 543,
     "title": "Diameter of Binary Tree",
     "title_slug": "diameter-of-binary-tree",
