@@ -490,6 +490,17 @@
     ]
   },
   {
+    "id": 1232,
+    "title": "Check If It Is a Straight Line",
+    "title_slug": "check-if-it-is-a-straight-line",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1426,
     "title": "Counting Elements",
     "title_slug": "counting-elements",
