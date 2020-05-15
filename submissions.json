@@ -481,6 +481,19 @@
     ]
   },
   {
+    "id": 918,
+    "title": "Maximum Sum Circular Subarray",
+    "title_slug": "maximum-sum-circular-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Monotonic Queue",
+      "Queue"
+    ]
+  },
+  {
     "id": 993,
     "title": "Cousins in Binary Tree",
     "title_slug": "cousins-in-binary-tree",
