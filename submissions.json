@@ -403,6 +403,17 @@
     ]
   },
   {
+    "id": 438,
+    "title": "Find All Anagrams in a String",
+    "title_slug": "find-all-anagrams-in-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 476,
     "title": "Number Complement",
     "title_slug": "number-complement",
