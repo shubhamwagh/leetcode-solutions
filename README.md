@@ -47,6 +47,7 @@
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | `Bit Manipulation` |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
+| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium | `Hash Table` `Sliding Window` `String` `Two Pointers` |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | Medium | `Dynamic Programming` `Greedy` `Stack` `String` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |

@@ -445,6 +445,18 @@
     ]
   },
   {
+    "id": 567,
+    "title": "Permutation in String",
+    "title_slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 678,
     "title": "Valid Parenthesis String",
     "title_slug": "valid-parenthesis-string",
