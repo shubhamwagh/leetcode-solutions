@@ -513,6 +513,18 @@
     ]
   },
   {
+    "id": 901,
+    "title": "Online Stock Span",
+    "title_slug": "online-stock-span",
+    "difficulty": "Medium",
+    "skills": [
+      "Data Stream",
+      "Design",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 918,
     "title": "Maximum Sum Circular Subarray",
     "title_slug": "maximum-sum-circular-subarray",

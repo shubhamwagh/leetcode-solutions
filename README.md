@@ -53,6 +53,7 @@
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | Easy | `Simulation` `Stack` `String` `Two Pointers` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
+| 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | Medium | `Data Stream` `Design` `Monotonic Stack` `Stack` |
 | 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` `Monotonic Queue` `Queue` |
 | 0993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | Easy | `Array` `Graph` `Hash Table` |
