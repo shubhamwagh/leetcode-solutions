@@ -36,6 +36,7 @@
 | 0201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | Medium | `Bit Manipulation` |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Hash Table` `Math` `Two Pointers` |
 | 0221 | [Maximal Square](https://leetcode.com/problems/maximal-square) | Medium | `Array` `Dynamic Programming` `Matrix` |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Medium | `Linked List` |
