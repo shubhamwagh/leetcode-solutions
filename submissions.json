@@ -615,6 +615,17 @@
     ]
   },
   {
+    "id": 1277,
+    "title": "Count Square Submatrices with All Ones",
+    "title_slug": "count-square-submatrices-with-all-ones",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1426,
     "title": "Counting Elements",
     "title_slug": "counting-elements",
