@@ -426,6 +426,20 @@
     ]
   },
   {
+    "id": 451,
+    "title": "Sort Characters By Frequency",
+    "title_slug": "sort-characters-by-frequency",
+    "difficulty": "Medium",
+    "skills": [
+      "Bucket Sort",
+      "Counting",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 476,
     "title": "Number Complement",
     "title_slug": "number-complement",
