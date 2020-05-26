@@ -608,6 +608,20 @@
     ]
   },
   {
+    "id": 1008,
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "title_slug": "construct-binary-search-tree-from-preorder-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Monotonic Stack",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
