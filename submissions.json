@@ -663,6 +663,16 @@
     ]
   },
   {
+    "id": 1089,
+    "title": "Duplicate Zeros",
+    "title_slug": "duplicate-zeros",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
