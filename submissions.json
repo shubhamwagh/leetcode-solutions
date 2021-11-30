@@ -595,6 +595,17 @@
     ]
   },
   {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "title_slug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 986,
     "title": "Interval List Intersections",
     "title_slug": "interval-list-intersections",
