@@ -460,6 +460,15 @@
     ]
   },
   {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 525,
     "title": "Contiguous Array",
     "title_slug": "contiguous-array",
