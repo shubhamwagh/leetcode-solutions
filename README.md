@@ -69,6 +69,7 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | `Array` `Geometry` `Math` |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Medium | `Array` `Dynamic Programming` `Matrix` |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | `Array` |
 | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements) | Easy | `Array` `Hash Table` |
 | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts) | Easy | `Array` `Math` `String` |
 | 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one) | Medium | `Array` `Binary Search` `Interactive` `Matrix` |

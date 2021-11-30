@@ -695,6 +695,15 @@
     ]
   },
   {
+    "id": 1295,
+    "title": "Find Numbers with Even Number of Digits",
+    "title_slug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1426,
     "title": "Counting Elements",
     "title_slug": "counting-elements",
