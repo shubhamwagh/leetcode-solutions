@@ -319,6 +319,19 @@
     ]
   },
   {
+    "id": 200,
+    "title": "Number of Islands",
+    "title_slug": "number-of-islands",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Matrix",
+      "Union Find"
+    ]
+  },
+  {
     "id": 201,
     "title": "Bitwise AND of Numbers Range",
     "title_slug": "bitwise-and-of-numbers-range",
