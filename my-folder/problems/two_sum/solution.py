@@ -1,7 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        x = [[i, nums.index(target - j)] for i, j in enumerate(nums) if nums.count(target - j) > 0 and nums.index(target-j)!=i]
-        return x.pop()
-    
-        
+        hash_map = {}
+
+        for ind in range(len(nums)):
+            num_1 = nums[ind]
+            num_2 = target - num_1
+            if num_2 in hash_map:
+                return [ind, hash_map[num_2]]
+            hash_map[num_1] = ind
+        return
