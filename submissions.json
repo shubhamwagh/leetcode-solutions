@@ -417,6 +417,16 @@
     ]
   },
   {
+    "id": 278,
+    "title": "First Bad Version",
+    "title_slug": "first-bad-version",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Interactive"
+    ]
+  },
+  {
     "id": 283,
     "title": "Move Zeroes",
     "title_slug": "move-zeroes",
