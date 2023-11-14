@@ -79,6 +79,7 @@
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | `Array` `Two Pointers` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `String` |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) | Medium | `Array` `Binary Search` `Design` `Hash Table` |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | `Array` `Geometry` `Math` |
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | `Array` |

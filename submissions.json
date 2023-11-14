@@ -801,6 +801,18 @@
     ]
   },
   {
+    "id": 1146,
+    "title": "Snapshot Array",
+    "title_slug": "snapshot-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Design",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1232,
     "title": "Check If It Is a Straight Line",
     "title_slug": "check-if-it-is-a-straight-line",
