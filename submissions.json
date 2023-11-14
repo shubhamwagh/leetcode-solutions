@@ -713,6 +713,18 @@
     ]
   },
   {
+    "id": 981,
+    "title": "Time Based Key-Value Store",
+    "title_slug": "time-based-key-value-store",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Design",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 986,
     "title": "Interval List Intersections",
     "title_slug": "interval-list-intersections",
